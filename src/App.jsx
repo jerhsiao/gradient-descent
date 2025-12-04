@@ -40,7 +40,7 @@ const styles = `
 
 :root {
   --text-overlay: #e8e8f0;
-  --text-shadow: 0 1px 3px rgba(0,0,0,0.9), 0 0 8px rgba(0,0,0,0.8);
+  --text-shadow: 0 1px 3px rgba(0,0,0,0.7), 0 0 8px rgba(0,0,0,0.6);
   --panel-text: #d0d0d8;
   --panel-text-dim: #a0a0b0;
   --panel-text-bright: #e8e8f0;
